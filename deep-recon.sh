@@ -2,7 +2,6 @@
 
 # ================================
 # Deep Subdomain Enumeration Script
-# Author: ChatGPT
 # ================================
 # REQUIREMENTS:
 # - Go tools: subfinder, amass, findomain, puredns, dnsx, httpx, gotator, cero
